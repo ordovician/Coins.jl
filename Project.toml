@@ -1,0 +1,4 @@
+name = "Coins"
+uuid = "fbaece28-49e1-4d75-82c6-c69311b23b35"
+authors = ["Erik Engheim <ordovician.cenozoic@mac.com>"]
+version = "0.1.0"
